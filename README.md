@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @pluto-tofu
+- I'm a second year undergrad student at IIIT Delhi
 [![An image of @plutotofu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/plutotofu)](https://holopin.io/@plutotofu)
 
 <!---
