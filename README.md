@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pluto-tofu
 - 🎓 I'm a second year undergrad student at IIIT Delhi
+- 📟 Interested in Systems, Parallel Computing and Full Stack Development
 [![An image of @plutotofu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/plutotofu)](https://holopin.io/@plutotofu)
 
 <!---
